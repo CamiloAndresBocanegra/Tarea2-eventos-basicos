@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MiPresentacion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MiPresentacion_jar</output-path>
+    <root id="archive" name="MiPresentacion.jar">
+      <element id="module-output" name="MiPresentacion" />
+    </root>
+  </artifact>
+</component>
